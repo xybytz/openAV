@@ -1,2 +1,2 @@
 # openAV
-Simple Antivirus (HOBBY PROJECT, DO NOT USE AS MAIN AV)
+ openAV is a new antivirus aimed at being simple to use and intuitive. 
